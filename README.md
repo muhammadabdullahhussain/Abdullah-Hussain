@@ -4,7 +4,7 @@ A sleek, responsive, and fully customizable **animated portfolio website** built
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+🔗 [View Portfolio Live]([https://tarunkaushik.vercel.app/](https://abdullahhussain-portfolio.netlify.app/))
 
 ## 🛠️ Tech Stack
 
@@ -48,12 +48,7 @@ npm start
 npm run build
 ```
 
-## 📹 YouTube Tutorial
-
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
-
 ## 🌟 Credits
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
+This project was created with ❤️ by [Muhammad Abdullah Hussain](https://abdullahhussain-portfolio.netlify.app/).
 If you like it, feel free to ⭐ this repository and share!
