@@ -41,7 +41,7 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-        I'm a Front-End Developer with over 2 years of hands-on experience crafting responsive and user-friendly web applications. My expertise lies in building scalable interfaces using modern technologies, with a strong command of the MERN stack (MongoDB, Express.js, React, Node.js). I focus on writing clean, maintainable code and delivering seamless user experiences. Whether it’s building from scratch or optimizing existing applications, I bring performance, creativity, and attention to detail to every project.
+       I’m a Front-End Developer with over 2 years of experience in building responsive, user-friendly, and performance-optimized web applications. I specialize in modern front-end technologies like HTML, CSS, JavaScript, React, and Tailwind CSS. I’m passionate about creating clean UI, seamless UX, and delivering pixel-perfect designs that work flawlessly across all devices. My goal is to turn ideas into interactive digital experiences that engage users and drive results.
 
           </p>
           {/* Resume Button */}
