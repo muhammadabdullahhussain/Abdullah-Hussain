@@ -41,11 +41,8 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a Front-End Developer with over 2 years of experience in
-            building scalable web applications. Skilled in both front-end and
-            back-end development, I specialize in the MERN stack and other
-            modern technologies to create seamless user experiences and
-            efficient solutions.
+        I'm a Front-End Developer with over 2 years of hands-on experience crafting responsive and user-friendly web applications. My expertise lies in building scalable interfaces using modern technologies, with a strong command of the MERN stack (MongoDB, Express.js, React, Node.js). I focus on writing clean, maintainable code and delivering seamless user experiences. Whether it’s building from scratch or optimizing existing applications, I bring performance, creativity, and attention to detail to every project.
+
           </p>
           {/* Resume Button */}
           <a
