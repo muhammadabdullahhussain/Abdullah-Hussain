@@ -118,7 +118,7 @@ export const SkillsInfo = [
 export const experiences = [
   {
     id: 0,
-    img: "https://i.ytimg.com/vi/OTAzThoFPUg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAvqNjoQMv4MU2_c6MqUbU3GzanJg", // placeholder image
+    img: "https://img.freepik.com/free-vector/creative-gradient-code-logo_23-2148820572.jpg", // placeholder image
     role: "Self-Taught Frontend Developer",
     company: "Personal Projects",
     date: "Jan 2023 – Present",
