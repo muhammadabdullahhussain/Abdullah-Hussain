@@ -118,7 +118,7 @@ export const SkillsInfo = [
 export const experiences = [
   {
     id: 0,
-    img: "https://cdn-icons-png.flaticon.com/512/270/270798.png", // placeholder image
+    img: "https://i.ytimg.com/vi/OTAzThoFPUg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAvqNjoQMv4MU2_c6MqUbU3GzanJg", // placeholder image
     role: "Self-Taught Frontend Developer",
     company: "Personal Projects",
     date: "Jan 2023 – Present",
@@ -135,7 +135,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://cdn-icons-png.flaticon.com/512/447/447031.png", // another placeholder
+    img: "https://images.credly.com/images/f441bb5a-d46a-4a77-ab63-48dbe870e992/twitter_thumb_201604_Web_Developer_Freelancer_Badge_1200x1200px.png", // another placeholder
     role: "Freelance Web Developer",
     company: "Freelance / Self-initiated Projects",
     date: "Sep 2023 – Present",
