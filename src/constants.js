@@ -209,7 +209,7 @@ export const experiences = [
   export const education = [
   {
     id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-sRudxIf3rJqi-6ot0ewir5zF2Z83BqjxA&s",
+    img: "https://img.freepik.com/free-vector/creative-gradient-code-logo_23-2148820572.jpg",
     school: "University of Engineering and Technology (UET), Lahore",
     date: "Starting in 2026 (Planned)",
     grade: "To be pursued",
