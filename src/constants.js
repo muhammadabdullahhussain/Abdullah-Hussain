@@ -55,6 +55,7 @@ import webverLogo from './assets/work_logo/web_dig.png';
 import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
+import dynamicFixLogo from './assets/projects/dynamic fix.png';
 
 
 export const SkillsInfo = [
@@ -338,4 +339,15 @@ export const experiences = [
       // github: "https://github.com/codingmastr/Image-Background-Remover",
       // webapp: "https://removeyourbg.netlify.app/",
     },
+    {
+  id: 9,
+  title: "Dynamic Fix - React Router Project",
+  description:
+    "A multi-page React web application built using React Router DOM and styled with Tailwind CSS. This project demonstrates smooth client-side routing, responsive layout, and clean component-based architecture. It was developed with Vite and deployed on Netlify.",
+  image: dynamicFixLogo, // Replace this with the actual imported logo/image
+  tags: ["React JS", "React Router DOM", "Tailwind CSS", "Vite", "HTML", "JavaScript"],
+  github: "https://github.com/muhammadabdullahhussain/09ReactRouterProjectAndLearning", // Replace with your actual repo URL if different
+  webapp: "https://dynamic-fix.netlify.app/",
+}
+
   ];  
