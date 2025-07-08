@@ -118,7 +118,7 @@ export const SkillsInfo = [
 export const experiences = [
   {
     id: 0,
-    img: "https://img.freepik.com/free-vector/creative-gradient-code-logo_23-2148820572.jpg", // placeholder image
+    img: "https://cdn-icons-png.flaticon.com/512/270/270798.png", // placeholder image
     role: "Self-Taught Frontend Developer",
     company: "Personal Projects",
     date: "Jan 2023 – Present",
@@ -338,15 +338,4 @@ export const experiences = [
       // github: "https://github.com/codingmastr/Image-Background-Remover",
       // webapp: "https://removeyourbg.netlify.app/",
     },
-         {
-  id: 9,
-  title: "Dynamic Fix - React Router Project",
-  description:
-    "A multi-page React web application built using React Router DOM and styled with Tailwind CSS. This project demonstrates smooth client-side routing, responsive layout, and clean component-based architecture. It was developed with Vite and deployed on Netlify.",
-  image: dynamicFixLogo, // Replace this with the actual imported logo/image
-  tags: ["React JS", "React Router DOM", "Tailwind CSS", "Vite", "HTML", "JavaScript"],
-  github: "https://github.com/muhammadabdullahhussain/09ReactRouterProjectAndLearning", // Replace with your actual repo URL if different
-  webapp: "https://dynamic-fix.netlify.app/",
-}
-
   ];  

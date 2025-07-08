@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import Navbar from "./components/Navbar/Navbar";
 import About from "./components/About/About";
 import Skills from "./components/Skills/Skills";
@@ -10,6 +10,7 @@ import Footer from "./components/Footer/Footer";
 import BlurBlob from './components/BlurBlob';
 
 const App = () => {
+  
   return (
     <div className="bg-[#050414]">
 
