@@ -56,6 +56,7 @@ import cmLogo from './assets/work_logo/cm.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import dynamicFixLogo from './assets/projects/dynamic fix.png';
+import emsLogo from './assets/projects/ems.png';
 
 
 export const SkillsInfo = [
@@ -340,7 +341,7 @@ export const experiences = [
       // webapp: "https://removeyourbg.netlify.app/",
     },
     {
-  id: 9,
+        id: 9,
   title: "Dynamic Fix - React Router Project",
   description:
     "A multi-page React web application built using React Router DOM and styled with Tailwind CSS. This project demonstrates smooth client-side routing, responsive layout, and clean component-based architecture. It was developed with Vite and deployed on Netlify.",
@@ -348,6 +349,17 @@ export const experiences = [
   tags: ["React JS", "React Router DOM", "Tailwind CSS", "Vite", "HTML", "JavaScript"],
   github: "https://github.com/muhammadabdullahhussain/09ReactRouterProjectAndLearning", // Replace with your actual repo URL if different
   webapp: "https://dynamic-fix.netlify.app/",
+},
+{
+  id: 10,
+  title: "EMS - Employee Management System",
+  description:
+    "A fully functional Employee Management System built using React JS and Tailwind CSS. This app enables efficient team and task management by allowing you to add employees, assign and update tasks, and track their status (New, Active, Completed, Failed). The UI is responsive and clean, with dynamic data handling through React hooks and persistent storage using localStorage. Designed for teams and startups looking to manage workflows easily.",
+  image: emsLogo, // Replace with actual image import (e.g., import emsLogo from './assets/ems.png')
+  tags: ["React JS", "Tailwind CSS", "LocalStorage", "JavaScript", "Hooks", "Vite", "Component Architecture"],
+  github: "https://github.com/muhammadabdullahhussain/employee-management-system",
+  webapp: "https://employee-management-systm.netlify.app/"
 }
+
 
   ];  
