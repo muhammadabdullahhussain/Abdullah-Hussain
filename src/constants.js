@@ -34,9 +34,9 @@ import postgreLogo from './assets/tech_logo/postgre.png';
 import csharpLogo from './assets/tech_logo/csharp.png';
 
 // Experience Section Logo's
-import webverseLogo from './assets/company_logo/webverse_logo.png';
-import agcLogo from './assets/company_logo/agc_logo.png';
-import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
+// import webverseLogo from './assets/company_logo/webverse_logo.png';
+// import agcLogo from './assets/company_logo/agc_logo.png';
+// import newtonschoolLogo from './assets/company_logo/newtonschool_logo.png';
 
 // Education Section Logo's
 // import uetLogo from "../assets/edu/uni/uet.png";
@@ -57,6 +57,7 @@ import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/remove_bg.png';
 import dynamicFixLogo from './assets/projects/dynamic fix.png';
 import emsLogo from './assets/projects/ems.png';
+import worldKnowl from './assets/projects/worldknowl.png';
 
 
 export const SkillsInfo = [
@@ -359,7 +360,18 @@ export const experiences = [
   tags: ["React JS", "Tailwind CSS", "LocalStorage", "JavaScript", "Hooks", "Vite", "Component Architecture"],
   github: "https://github.com/muhammadabdullahhussain/employee-management-system",
   webapp: "https://employee-management-systm.netlify.app/"
+},
+{
+  id: 11,
+  title: "WorldKnow – Global Knowledge Explorer",
+  description:
+    "An interactive world info explorer built using React JS and CSS. WorldKnow lets users click on countries to discover key data like capital, population, currency, and region. The app fetches real-time data from REST APIs, features a responsive UI, and provides an engaging way to explore country-wise information. Ideal for students, travelers, and curious minds who want to learn about the world in one place.",
+  image: worldKnowl, // Replace with actual image import (e.g., import worldKnowLogo from './assets/worldknow.png')
+  tags: ["React JS", "REST API", "JavaScript", "CSS", "Responsive Design", "Hooks", "Interactive UI"],
+  github: "https://github.com/muhammadabdullahhussain/12-aboutWorld", // (Add your GitHub repo if available)
+  webapp: "https://worldknow.netlify.app/"
 }
+
 
 
   ];  
