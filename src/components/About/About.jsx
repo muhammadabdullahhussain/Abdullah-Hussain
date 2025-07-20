@@ -1,4 +1,3 @@
-import React from "react";
 import ReactTypingEffect from "react-typing-effect";
 import Tilt from "react-parallax-tilt";
 import profileImage from "/MyLogo_rounded.png";
@@ -25,10 +24,10 @@ const About = () => {
             <span className="text-white">I am a </span>
             <ReactTypingEffect
               text={[
-                'Frontened Developer',
-                'App Developer',
-                'UI/UX Designer',
-                'Coder',
+                "Frontened Developer",
+                "App Developer",
+                "UI/UX Designer",
+                "Coder",
               ]}
               speed={100}
               eraseSpeed={50}
@@ -41,18 +40,18 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            I am a full-stack developer with over 2 years of experience in
-            building scalable web applications. Skilled in both front-end and
-            back-end development, I specialize in the MERN stack and other
-            modern technologies to create seamless user experiences and
-            efficient solutions.
+            I am a front-end developer with over 2 years of experience in
+            building responsive and interactive web applications. My expertise
+            lies in creating seamless user interfaces using modern JavaScript
+            frameworks, especially React.js, as part of the MERN stack. I focus
+            on delivering clean, maintainable code and crafting user-centric
+            designs that provide intuitive and engaging digital experiences.
           </p>
           {/* Resume Button */}
           <a
-          download={true}
-            href="/abdullahHussainPortFolio/src/assets/resume/Abdullah-Hussain-Resume.pdf" // resume link
-            target="_blank"
             rel="noopener noreferrer"
+            href="/resume/Abdullah-Hussain-Resume.pdf"
+            download="Abdullah-Hussain-Resume.pdf"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
             style={{
               background: "linear-gradient(90deg, #8245ec, #a855f7)",
